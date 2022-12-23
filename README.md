@@ -5,5 +5,9 @@ public class Main {
 
     System.out.println(myInt);      // Outputs 9
     System.out.println(myDouble);   // Outputs 9.0
+  .
+  .
   }
+  
 }
+
